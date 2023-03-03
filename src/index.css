@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Alef&display=swap');
+
+body {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+font-family: 'Alef', sans-serif;
+    background-color: #0b1628
+ 
+}
+
+
+
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
